@@ -2,7 +2,7 @@
 
 ## Project description
 
-In this repository I have documented my hands-on experience with Terrafrom for the purpose of OCI Flex Load Balancer deployment. This set of HCL based Terraform files can customized according to any requirements.  
+In this repository I have documented my hands-on experience with Terrafrom for the purpose of OCI Flex Load Balancer deployment (new feature supported released and documented [_here_](https://docs.cloud.oracle.com/en-us/iaas/releasenotes/changes/d6a1811f-349a-45a5-b457-ace95a46a87d/) and now supported by OCI Terraform Provider v4.7.0). This set of HCL based Terraform files can customized according to any requirements.  
 
 ## Topology Diagram 
 
